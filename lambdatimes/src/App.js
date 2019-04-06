@@ -5,7 +5,7 @@ import Content from './components/Content/Content';
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="Ajpp">
       <TopBar />
       <Header />
       <Content />
